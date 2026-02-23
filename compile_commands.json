@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+    "command": "g++ -c main.cpp",
+    "file": "main.cpp"
+  },
+  {
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+    "command": "g++ -c Farmacia.cpp",
+    "file": "Farmacia.cpp"
+  },
+  {
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+    "command": "g++ -c Laboratorio.cpp",
+    "file": "Laboratorio.cpp"
+  },
+  {
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+    "command": "g++ -c MediExpress.cpp",
+    "file": "MediExpress.cpp"
+  },
+  {
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+    "command": "g++ -c PaMedicamento.cpp",
+    "file": "PaMedicamento.cpp"
+  },
+  {
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+    "command": "g++ -c Stock.cpp",
+    "file": "Stock.cpp"
+  }
+]

@@ -1,0 +1,139 @@
+vector seguía siendo el antiguo. (Usaba std::max, ?)
+
+ListaEnlazada.h:
+
+// Sobrecarga de operadores para compatibilidad con C++ moderno
+        Iterador& operator++() { // Pre-incremento
+            siguiente();
+            return *this;
+        }
+
+        bool operator==(const Iterador& otro) const { return nodo == otro.nodo; }
+        bool operator!=(const Iterador& otro) const { return nodo != otro.nodo; }
+
+??? Esto pa que?
+
+private:
+    // Los punteros de la lista usan el tipo Nodo<T> simplificado a Nodo*
+    Nodo *cab, *cola;
+
+
+// Acceso a la cabeza (const, para lectura)
+    const T& inicio() const {
+        if (cab == nullptr) {
+            throw std::out_of_range("[ListaEnlazada::inicio()] Lista vacía: cab es nulo.");
+        }
+        return cab->dato;
+    }
+
+    ???
+
+
+    // --- ITERACIÓN (para bucles C++11) ---
+
+    Iterador begin() { return Iterador(cab); }
+    Iterador end() { return Iterador(nullptr); }
+
+
+main.cpp corregido:
+
+
+    cout<<"PRUEBA I"<<endl;
+
+    ListaEnlazada<int> lista;
+
+    //Insertar al final de la lista los valores crecientes desde 101 a 200. Mostrar la lista
+    for (int i = 101; i < 201; i++) {
+        lista.insertaFin(i);
+    }
+    ListaEnlazada<int>::Iterador it = lista.begin();
+    while (!it.fin()) {
+        cout<<it.dato()<<endl;
+        it.siguiente();
+    }
+
+    //Insertar por el comienzo de la lista los valores decrecientes desde 98 a 1. Mostrar la lista
+
+    for (int i = 98; i >= 1; i--) {
+        lista.insertaInicio(i);
+    }
+    ListaEnlazada<int>::Iterador it2 = lista.begin();
+    while (!it2.fin()) {
+        cout<<it2.dato()<<endl;
+        it2.siguiente();
+    }
+
+    // Insertar el dato 100 delante del 101. Mostrar la lista.
+
+    ListaEnlazada<int>::Iterador it3 = lista.begin();
+    while (!it3.fin()) {
+        if (it3.dato()==101) break;
+        it3.siguiente();
+    }
+    lista.insertaDelante(it3,100);
+
+    ListaEnlazada<int>::Iterador itImprime = lista.begin();
+    while (!itImprime.fin()) {
+        if(itImprime.dato() == 98) break;
+        itImprime.siguiente();
+    }
+    cout<<"Encontramos el 98 ->  "<<itImprime.dato()<<endl;
+
+    // Insertar el dato 99 detrás del 98. Mostrar la lista.
+
+    ListaEnlazada<int>::Iterador it4 = lista.begin();
+    while (!it4.fin()) {
+        if (it4.dato()==98) break;
+        it4.siguiente();
+    }
+    lista.insertaDetras(it4,99);
+
+    while (!itImprime.fin()) {
+        if(itImprime.dato() == 99) break;
+        itImprime.siguiente();
+    }
+    cout<<"Encontramos el 99 ->  "<<itImprime.dato()<<endl;
+
+    // Borrar de la lista los 10 primeros y los 10 últimos datos.
+
+    int contador = 0;
+    for (int i=0;i<10;i++) lista.borraInicio();
+
+    ListaEnlazada<int>::Iterador it7 = lista.begin();
+    while (!it7.fin()) {
+        cout<<it7.dato()<<endl;
+        it7.siguiente();
+    }
+
+    for (int i=0;i<10;i++) lista.borraFinal();
+
+    cout<<"Borramos por el final ->  "<<endl;
+
+    ListaEnlazada<int>::Iterador it8 = lista.begin();
+    while (!it8.fin()) {
+        cout<<it8.dato()<<endl;
+        it8.siguiente();
+    }
+
+    //Borrar todos los múltiplos de 10.
+
+    ListaEnlazada<int>::Iterador it5 = lista.begin();
+
+    while (!it5.fin()) {
+        if ((it5.dato() % 10) == 0) {
+            ListaEnlazada<int>::Iterador siguiente = it5;
+            siguiente.siguiente();
+            lista.borra(it5);
+            it5 = siguiente;
+        } else {
+            it5.siguiente();
+        }
+    }
+
+
+
+MediExpress:
+
+Lecturas de los archivos en el constructor -> Yo lo veo correcto.
+
+buscarLabCiudad() -> Cambiado para que la búsqueda sea por subcadena.
