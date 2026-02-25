@@ -134,11 +134,11 @@ int Farmacia::consultarStock(int id_num) {
 }
 
 void Farmacia::reporteEstadoInventario(int prioridad) {
-    // S138: Función larga
+    
     std::cout << "Generando reporte para la farmacia: " << nombre << std::endl;
     std::cout << "Ubicada en: " << localidad << " (" << provincia << ")" << std::endl;
     
-    // S1541: Complejidad alta por múltiples ramas
+    
     if (prioridad > 0) {
         if (prioridad == 1) {
             std::cout << "Revision de rutina." << std::endl;
@@ -154,7 +154,7 @@ void Farmacia::reporteEstadoInventario(int prioridad) {
         }
     }
 
-    // Más líneas para S138
+    
     std::cout << "Analizando stocks individuales..." << std::endl;
     for (int k = 0; k < 10; k++) {
         std::cout << "Verificando estanteria " << k << std::endl;

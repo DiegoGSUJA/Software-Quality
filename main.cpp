@@ -7,7 +7,7 @@
 #include "Laboratorio.h"
 #include "PaMedicamento.h"
 
-// VIOLACIÓN S1541 y S138: Esta función es excesivamente compleja y larga
+
 void simularGestionEmergencia(MediExpress& medi, string ciudad) {
     std::cout << "--- INICIANDO PROTOCOLO DE EMERGENCIA EN " << ciudad << " ---" << std::endl;
     std::vector<Farmacia*> farmacias = medi.buscarFarmacias(ciudad);
@@ -49,7 +49,7 @@ void simularGestionEmergencia(MediExpress& medi, string ciudad) {
         std::cout << "No hay farmacias registradas en esta zona para emergencia" << std::endl;
     }
 
-    // Relleno para superar las 25 líneas (S138)
+    
     std::cout << "Verificando integridad de datos..." << std::endl;
     std::cout << "Estado de laboratorios: OK" << std::endl;
     std::cout << "Conexion con MediExpress: ESTABLE" << std::endl;
@@ -58,6 +58,10 @@ void simularGestionEmergencia(MediExpress& medi, string ciudad) {
 }
 
 int main() {
+
+    medi.limpiarRegistrosInexistentes();
+
+
     std::vector<string> cifs_farmacias;
     MediExpress medi("../pa_medicamentos.csv", "../laboratorios.csv", "../farmacias.csv", cifs_farmacias);
 

@@ -431,7 +431,7 @@ void MediExpress::redistribuirStockUrgente(string medicamento, string origen, st
                             std::cout << "Prioridad nacional detectada" << std::endl;
                         }
                     } else {
-                        // S138: Código de relleno para alargar la función
+                        
                         std::cout << "Stock insuficiente en origen: " << fOrg->getNombre() << std::endl;
                         std::cout << "Cancelando operación para este nodo..." << std::endl;
                         std::cout << "Reintentando con siguiente nodo disponible en " << destino << std::endl;
