@@ -1,0 +1,9 @@
+<map id="MediExpress::suministrarFarmacia" name="MediExpress::suministrarFarmacia">
+<area shape="rect" id="Node000001" title="Replenishes stock for a specific pharmacy." alt="" coords="5,23,175,65"/>
+<area shape="rect" id="Node000002" href="$class_medi_express.html#abf9124fcfa6647a0dbdcfbdb6b74d634" title="Searches for medicines by name." alt="" coords="223,5,434,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,32,210,31,204,32,176,38"/>
+<area shape="rect" id="Node000003" href="$class_farmacia.html#a260cc6ea0f42c5fcc2bce52de1d765e0" title="Adds or updates stock for a medicine." alt="" coords="252,56,404,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,50,239,59,234,60,175,56"/>
+<area shape="rect" id="Node000004" href="$class_stock.html#a593f853fde84a59ecd6f0f3dd2da6035" title="Increments the stock quantity by n units." alt="" coords="482,56,609,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,67,469,69,464,69,405,72"/>
+</map>

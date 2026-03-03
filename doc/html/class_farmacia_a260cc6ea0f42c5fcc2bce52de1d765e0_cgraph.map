@@ -1,0 +1,5 @@
+<map id="Farmacia::nuevoStock" name="Farmacia::nuevoStock">
+<area shape="rect" id="Node000001" title="Adds or updates stock for a medicine." alt="" coords="5,5,158,32"/>
+<area shape="rect" id="Node000002" href="$class_stock.html#a593f853fde84a59ecd6f0f3dd2da6035" title="Increments the stock quantity by n units." alt="" coords="206,5,333,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,16,193,19,187,19,158,21"/>
+</map>

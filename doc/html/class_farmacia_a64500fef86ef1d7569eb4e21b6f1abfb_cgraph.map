@@ -1,0 +1,5 @@
+<map id="Farmacia::buscarMedicamNombre" name="Farmacia::buscarMedicamNombre">
+<area shape="rect" id="Node000001" title="Searches for medicines by partial name." alt="" coords="5,13,227,40"/>
+<area shape="rect" id="Node000002" href="$class_pa_medicamento.html#afe00786b34dc7a59a5ec4287b841ad48" title="Get the name of the medicine." alt="" coords="275,5,416,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,24,262,27,257,27,227,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MediExpress::redistribuirStockUrgente" name="MediExpress::redistribuirStockUrgente">
+<area shape="rect" id="Node000001" title="Handles urgent stock redistribution between provinces." alt="" coords="5,5,171,48"/>
+<area shape="rect" id="Node000002" href="$class_medi_express.html#abb8e0e8ff5614a670ef5953fecd313ff" title="Searches for pharmacies in a specific province." alt="" coords="219,13,424,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,24,206,26,200,27,171,29"/>
+</map>

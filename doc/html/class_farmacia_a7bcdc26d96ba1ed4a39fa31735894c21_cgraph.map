@@ -1,0 +1,5 @@
+<map id="Farmacia::consultarStock" name="Farmacia::consultarStock">
+<area shape="rect" id="Node000001" title="Checks the current stock of a medicine." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="Node000002" href="$class_farmacia.html#a9a897a4b52769287b591e4952ef1a0c8" title="Internal method to find stock by medicine ID." alt="" coords="224,5,409,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,16,211,19,205,19,176,21"/>
+</map>

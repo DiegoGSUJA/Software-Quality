@@ -1,0 +1,5 @@
+<map id="Farmacia" name="Farmacia">
+<area shape="rect" id="Node000001" title="Class that simulates a pharmacy." alt="" coords="16,104,92,131"/>
+<area shape="rect" id="Node000002" href="$class_medi_express.html" title="Class that manages the system, linking pharmacies, laboratories, and medicines." alt="" coords="5,5,103,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,46,57,104,51,103,52,49"/>
+</map>

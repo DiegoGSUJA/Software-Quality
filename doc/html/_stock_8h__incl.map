@@ -1,0 +1,10 @@
+<map id="C:/Users/Usuario/Desktop/CaSo/Stock.h" name="C:/Users/Usuario/Desktop/CaSo/Stock.h">
+<area shape="rect" id="Node000001" title="Header of the Stock class." alt="" coords="5,5,182,48"/>
+<area shape="rect" id="Node000002" href="$_pa_medicamento_8h.html" title="Header of the PaMedicamento class." alt="" coords="30,96,157,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,46,96,81,91,80,93,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="67,245,120,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,121,79,171,79,202,86,231,81,230,74,202,74,170,87,126"/>
+<area shape="rect" id="Node000004" href="$_laboratorio_8h.html" title="Header of the Laboratorio class." alt="" coords="88,171,184,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="102,121,124,157,118,158,100,126"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="131,196,111,234,107,230,126,199"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="C:/Users/Usuario/Desktop/CaSo/PaMedicamento.h" name="C:/Users/Usuario/Desktop/CaSo/PaMedicamento.h">
+<area shape="rect" id="Node000001" title="Header of the PaMedicamento class." alt="" coords="488,5,664,48"/>
+<area shape="rect" id="Node000002" href="$_farmacia_8cpp.html" title="Implementation of the Farmacia class." alt="" coords="25,277,201,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,43,347,66,208,97,144,116,88,138,44,162,15,188,8,208,15,228,37,255,67,276,62,278,34,259,11,231,3,207,11,185,41,158,86,133,142,111,207,92,346,61,475,40"/>
+<area shape="rect" id="Node000003" href="$_medi_express_8cpp.html" title="Implementation of the MediExpress class." alt="" coords="225,277,401,320"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="597,59,617,98,631,143,634,166,633,189,627,211,615,231,539,251,402,281,401,276,538,246,611,227,622,209,628,188,628,166,626,144,612,100,595,64"/>
+<area shape="rect" id="Node000004" href="$_medi_express_8h.html" title="Header of the MediExpress class." alt="" coords="25,187,201,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="509,57,167,189,165,184,508,51"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title="Main entry point and emergency simulation for the MediExpress project." alt="" coords="425,277,601,320"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="625,55,645,73,659,95,675,132,681,164,677,196,659,231,632,260,596,279,595,274,628,255,655,228,671,194,676,164,670,133,655,97,641,77,624,60"/>
+<area shape="rect" id="Node000006" href="$_pa_medicamento_8cpp.html" title="Implementation of the PaMedicamento class." alt="" coords="726,96,908,139"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="647,51,763,95,758,96,646,56"/>
+<area shape="rect" id="Node000007" href="$_stock_8h.html" title="Header of the Stock class." alt="" coords="425,96,601,139"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="555,59,529,98,526,94,550,62"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="115,243,116,278,111,276,111,247"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="175,234,269,276,264,277,173,239"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="217,229,427,276,422,280,216,235"/>
+<area shape="rect" id="Node000008" href="$_farmacia_8h.html" title="Header of the Farmacia class." alt="" coords="225,187,401,229"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="455,144,361,188,359,184,450,146"/>
+<area shape="rect" id="Node000009" href="$_stock_8cpp.html" title="Implementation of the Stock class." alt="" coords="425,187,601,229"/>
+<area shape="poly" id="edge13_Node000007_Node000009" title=" " alt="" coords="515,152,515,188,511,185,511,156"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="255,236,161,279,159,274,250,237"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="315,243,315,279,311,275,311,247"/>
+<area shape="poly" id="edge12_Node000008_Node000005" title=" " alt="" coords="375,234,469,277,463,277,373,239"/>
+</map>

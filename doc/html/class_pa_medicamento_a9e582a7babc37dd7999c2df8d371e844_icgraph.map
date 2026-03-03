@@ -1,0 +1,11 @@
+<map id="PaMedicamento::PaMedicamento" name="PaMedicamento::PaMedicamento">
+<area shape="rect" id="Node000001" title="Default constructor." alt="" coords="271,81,488,108"/>
+<area shape="rect" id="Node000002" href="$class_pa_medicamento.html#a3c8504fa77489a15b872dc723ce84140" title="Less than operator based on numeric ID." alt="" coords="25,5,203,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,77,222,47,179,35,178,30,223,41,327,75"/>
+<area shape="rect" id="Node000003" href="$class_pa_medicamento.html#a66aa9fd4f262d83d8cae0dcfde0cd3dd" title="Assignment operator." alt="" coords="25,56,203,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,84,204,81,203,75,257,82"/>
+<area shape="rect" id="Node000004" href="$class_pa_medicamento.html#aab2f2aa6812cf760c959814ef9e4fb0b" title="Greater than operator based on numeric ID." alt="" coords="25,107,203,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,107,204,114,203,109,257,106"/>
+<area shape="rect" id="Node000005" href="$class_pa_medicamento.html#a80662920a37941d8f4d31b60db79b335" title="Copy constructor." alt="" coords="5,157,223,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="327,113,223,148,179,159,178,154,222,143,322,114"/>
+</map>

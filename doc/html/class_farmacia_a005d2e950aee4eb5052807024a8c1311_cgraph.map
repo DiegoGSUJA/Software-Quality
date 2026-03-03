@@ -1,0 +1,11 @@
+<map id="Farmacia::comprarMedicam" name="Farmacia::comprarMedicam">
+<area shape="rect" id="Node000001" title="Sells a medicine to a customer." alt="" coords="5,81,189,108"/>
+<area shape="rect" id="Node000002" href="$class_farmacia.html#a9a897a4b52769287b591e4952ef1a0c8" title="Internal method to find stock by medicine ID." alt="" coords="237,5,422,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,78,236,41,263,36,258,38,238,47,135,83"/>
+<area shape="rect" id="Node000003" href="$class_stock.html#a55ad6d089e79e3ee5d9438a187f425ad" title="Decrements the stock quantity by n units." alt="" coords="264,56,395,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,82,251,77,246,79,190,87"/>
+<area shape="rect" id="Node000004" href="$class_stock.html#ae39f85b9f52fe193d72c99cc4623d088" title="Get the pointer to the PaMedicamento object." alt="" coords="242,107,417,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,102,229,108,224,109,189,107"/>
+<area shape="rect" id="Node000005" href="$class_farmacia.html#ad7042c7848b880d458817f13ed7bd067" title="Places a restock order to MediExpress." alt="" coords="242,157,416,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="134,106,238,143,263,153,258,153,236,148,133,111"/>
+</map>

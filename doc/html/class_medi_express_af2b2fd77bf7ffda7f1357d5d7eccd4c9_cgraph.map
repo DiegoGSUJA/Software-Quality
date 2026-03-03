@@ -1,0 +1,25 @@
+<map id="MediExpress::MediExpress" name="MediExpress::MediExpress">
+<area shape="rect" id="Node000001" title="Constructor for MediExpress." alt="" coords="5,181,187,208"/>
+<area shape="rect" id="Node000002" href="$class_medi_express.html#a8a9a116b34db7d4798f2375b02f70c9a" title="Randomly links initial stock to pharmacies." alt="" coords="266,27,433,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,179,160,130,195,103,233,79,253,72,249,75,236,84,198,107,164,134,112,183"/>
+<area shape="rect" id="Node000008" href="$class_medi_express.html#a58e4b79e25efde165f41b2a1ce3a79c8" title="Automatically links medicines to laboratories." alt="" coords="238,93,461,120"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,179,173,154,234,129,263,123,258,126,236,135,175,159,125,183"/>
+<area shape="rect" id="Node000009" href="$class_medi_express.html#a241e304f2a8395701ef1ce378af6c7b4" title="Gets a list of medicines that have no assigned laboratory." alt="" coords="249,144,450,187"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="186,182,236,178,231,180,188,187"/>
+<area shape="rect" id="Node000010" href="$class_medi_express.html#aed129fade02b9e6a6caf6f4765df6434" title="Reads pharmacy data from a CSV file and populates initial CIFs." alt="" coords="247,211,452,237"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="187,203,233,209,228,211,188,208"/>
+<area shape="rect" id="Node000011" href="$class_medi_express.html#afbe2458f2130dc54df36c0adc3d59050" title="Reads laboratory data from a CSV file." alt="" coords="242,261,457,288"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="128,206,236,247,265,257,260,257,234,252,128,211"/>
+<area shape="rect" id="Node000012" href="$class_medi_express.html#aaff6bf64cdbca97f268068122be24ab1" title="Reads medicine data from a CSV file." alt="" coords="235,312,464,339"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="111,206,164,252,199,277,236,298,254,307,249,307,234,302,196,281,161,256,110,211"/>
+<area shape="rect" id="Node000003" href="$class_medi_express.html#af599d1dc6672b6c464e4772ab5a22293" title="Searches for a pharmacy by CIF." alt="" coords="512,5,710,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,36,499,30,494,32,434,41"/>
+<area shape="rect" id="Node000004" href="$class_medi_express.html#a94802c02f3e9f4022168d4e12fb89b8e" title="Replenishes stock for a specific pharmacy." alt="" coords="526,56,696,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="433,55,513,65,508,67,434,60"/>
+<area shape="rect" id="Node000005" href="$class_medi_express.html#abf9124fcfa6647a0dbdcfbdb6b74d634" title="Searches for medicines by name." alt="" coords="758,39,970,65"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="696,66,746,63,740,65,697,71"/>
+<area shape="rect" id="Node000006" href="$class_farmacia.html#a260cc6ea0f42c5fcc2bce52de1d765e0" title="Adds or updates stock for a medicine." alt="" coords="788,89,940,116"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="696,83,775,93,770,94,697,88"/>
+<area shape="rect" id="Node000007" href="$class_stock.html#a593f853fde84a59ecd6f0f3dd2da6035" title="Increments the stock quantity by n units." alt="" coords="1018,89,1145,116"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="940,100,1005,102,999,103,941,105"/>
+</map>

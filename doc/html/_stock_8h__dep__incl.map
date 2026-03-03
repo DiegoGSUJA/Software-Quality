@@ -1,0 +1,13 @@
+<map id="C:/Users/Usuario/Desktop/CaSo/Stock.h" name="C:/Users/Usuario/Desktop/CaSo/Stock.h">
+<area shape="rect" id="Node000001" title="Header of the Stock class." alt="" coords="305,5,482,48"/>
+<area shape="rect" id="Node000002" href="$_farmacia_8h.html" title="Header of the Farmacia class." alt="" coords="205,96,382,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,57,318,98,315,93,357,60"/>
+<area shape="rect" id="Node000006" href="$_stock_8cpp.html" title="Implementation of the Stock class." alt="" coords="405,96,582,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="429,56,473,96,467,95,427,61"/>
+<area shape="rect" id="Node000003" href="$_farmacia_8cpp.html" title="Implementation of the Farmacia class." alt="" coords="5,187,182,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,145,141,188,139,184,230,146"/>
+<area shape="rect" id="Node000004" href="$_medi_express_8cpp.html" title="Implementation of the MediExpress class." alt="" coords="205,187,382,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="295,152,296,188,291,185,292,156"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title="Main entry point and emergency simulation for the MediExpress project." alt="" coords="405,187,582,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="355,143,449,186,444,186,354,148"/>
+</map>

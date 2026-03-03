@@ -1,0 +1,13 @@
+<map id="MediExpress::enlaza_Farmacia_medicamento" name="MediExpress::enlaza_Farmacia_medicamento">
+<area shape="rect" id="Node000001" title="Randomly links initial stock to pharmacies." alt="" coords="5,27,173,69"/>
+<area shape="rect" id="Node000002" href="$class_medi_express.html#af599d1dc6672b6c464e4772ab5a22293" title="Searches for a pharmacy by CIF." alt="" coords="221,5,419,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,35,208,32,203,34,173,40"/>
+<area shape="rect" id="Node000003" href="$class_medi_express.html#a94802c02f3e9f4022168d4e12fb89b8e" title="Replenishes stock for a specific pharmacy." alt="" coords="235,56,404,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,56,222,64,217,65,173,61"/>
+<area shape="rect" id="Node000004" href="$class_medi_express.html#abf9124fcfa6647a0dbdcfbdb6b74d634" title="Searches for medicines by name." alt="" coords="467,39,678,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,66,454,64,449,64,405,71"/>
+<area shape="rect" id="Node000005" href="$class_farmacia.html#a260cc6ea0f42c5fcc2bce52de1d765e0" title="Adds or updates stock for a medicine." alt="" coords="496,89,649,116"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="405,83,484,93,478,94,405,89"/>
+<area shape="rect" id="Node000006" href="$class_stock.html#a593f853fde84a59ecd6f0f3dd2da6035" title="Increments the stock quantity by n units." alt="" coords="726,89,854,116"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="649,100,713,103,708,103,649,105"/>
+</map>

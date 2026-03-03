@@ -1,0 +1,15 @@
+<map id="MediExpress::buscarCompuesto" name="MediExpress::buscarCompuesto">
+<area shape="rect" id="Node000001" title="Searches for medicines by name." alt="" coords="736,35,948,61"/>
+<area shape="rect" id="Node000002" href="$class_medi_express.html#aec1989a9c952e17cf1a22a91c29238a5" title="Removes a medicine from the system and all pharmacies." alt="" coords="460,5,688,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="718,35,689,34,689,29,724,35"/>
+<area shape="rect" id="Node000003" href="$class_medi_express.html#a94802c02f3e9f4022168d4e12fb89b8e" title="Replenishes stock for a specific pharmacy." alt="" coords="490,56,659,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="723,61,659,71,659,65,718,62"/>
+<area shape="rect" id="Node000004" href="$class_medi_express.html#a8a9a116b34db7d4798f2375b02f70c9a" title="Randomly links initial stock to pharmacies." alt="" coords="240,27,407,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="471,66,408,60,408,55,477,66"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html#a2a40e25356272f51718a52e626d5e551" title="Simulates an emergency protocol in a specific city." alt="" coords="235,93,412,120"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="477,89,413,99,412,94,472,89"/>
+<area shape="rect" id="Node000005" href="$class_medi_express.html#af2b2fd77bf7ffda7f1357d5d7eccd4c9" title="Constructor for MediExpress." alt="" coords="5,35,187,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="222,49,188,51,187,45,227,47"/>
+<area shape="rect" id="Node000007" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function of the project." alt="" coords="71,93,121,120"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="217,108,121,109,121,104,222,106"/>
+</map>

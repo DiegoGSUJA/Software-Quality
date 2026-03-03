@@ -1,0 +1,7 @@
+<map id="Farmacia::buscaMedicamID" name="Farmacia::buscaMedicamID">
+<area shape="rect" id="Node000001" title="Internal method to find stock by medicine ID." alt="" coords="237,31,422,57"/>
+<area shape="rect" id="Node000002" href="$class_farmacia.html#a005d2e950aee4eb5052807024a8c1311" title="Sells a medicine to a customer." alt="" coords="5,5,189,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,33,189,31,189,26,224,32"/>
+<area shape="rect" id="Node000003" href="$class_farmacia.html#a7bcdc26d96ba1ed4a39fa31735894c21" title="Checks the current stock of a medicine." alt="" coords="12,56,182,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,56,183,63,182,57,224,55"/>
+</map>

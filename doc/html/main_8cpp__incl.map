@@ -1,0 +1,37 @@
+<map id="C:/Users/Usuario/Desktop/CaSo/main.cpp" name="C:/Users/Usuario/Desktop/CaSo/main.cpp">
+<area shape="rect" id="Node000001" title="Main entry point and emergency simulation for the MediExpress project." alt="" coords="343,5,520,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,66,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,44,223,67,82,98,80,93,222,62,345,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,96,160,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,51,177,97,174,92,354,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="519,171,576,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="456,46,502,94,538,157,533,156,497,98,455,51"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="582,395,636,421"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="341,50,294,71,248,99,229,116,214,135,204,158,201,183,201,260,204,273,212,286,243,310,288,332,344,351,466,381,570,401,564,401,465,386,343,356,286,337,240,315,208,290,199,275,196,260,196,182,199,156,209,133,225,112,244,94,292,66,345,47"/>
+<area shape="rect" id="Node000006" href="$_medi_express_8h.html" title="Header of the MediExpress class." alt="" coords="328,96,436,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="421,47,400,84,396,81,417,51"/>
+<area shape="rect" id="Node000009" href="$_pa_medicamento_8h.html" title="Header of the PaMedicamento class." alt="" coords="503,245,629,272"/>
+<area shape="poly" id="edge22_Node000001_Node000009" title=" " alt="" coords="439,46,467,116,486,157,510,196,543,235,537,234,505,199,482,159,462,118,437,51"/>
+<area shape="rect" id="Node000010" href="$_laboratorio_8h.html" title="Header of the Laboratorio class." alt="" coords="603,320,700,347"/>
+<area shape="poly" id="edge21_Node000001_Node000010" title=" " alt="" coords="519,27,597,38,637,48,677,62,714,80,748,104,775,134,795,170,800,193,797,215,787,236,772,256,733,289,692,315,690,310,730,285,768,252,782,234,792,214,795,193,790,172,771,137,744,108,712,85,675,67,636,53,596,43,520,33"/>
+<area shape="rect" id="Node000011" href="$_farmacia_8h.html" title="Header of the Farmacia class." alt="" coords="624,96,711,123"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="492,46,618,90,613,91,492,51"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="411,121,507,163,502,164,411,126"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="355,171,393,197"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="382,121,380,156,375,154,379,125"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="235,171,281,197"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="358,125,294,165,291,160,363,122"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="371,121,357,140,346,159,340,178,346,196,367,211,402,224,491,246,485,247,400,230,364,216,341,199,335,178,341,157,353,137,367,125"/>
+<area shape="poly" id="edge13_Node000006_Node000010" title=" " alt="" coords="388,121,426,191,456,233,493,270,540,297,591,318,586,318,538,302,490,274,452,237,422,194,386,126"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="572,270,603,381,599,378,568,275"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="582,270,628,311,623,310,580,275"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="646,346,625,384,622,379,642,349"/>
+<area shape="poly" id="edge18_Node000011_Node000004" title=" " alt="" coords="649,122,583,165,580,160,644,124"/>
+<area shape="poly" id="edge19_Node000011_Node000005" title=" " alt="" coords="711,116,757,135,778,150,795,169,799,183,795,198,782,245,767,280,746,312,713,349,683,373,650,392,649,387,680,369,710,345,742,309,763,278,777,243,790,197,794,183,790,172,775,154,755,140,711,122"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="672,121,681,170,681,207,677,244,662,307,658,303,672,243,676,207,676,171,669,125"/>
+<area shape="rect" id="Node000012" href="$_stock_8h.html" title="Header of the Stock class." alt="" coords="600,171,666,197"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="663,121,647,158,644,155,659,125"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="741,171,780,197"/>
+<area shape="poly" id="edge20_Node000011_Node000013" title=" " alt="" coords="684,121,736,161,730,161,683,126"/>
+<area shape="poly" id="edge17_Node000012_Node000009" title=" " alt="" coords="623,196,589,236,586,232,619,199"/>
+</map>

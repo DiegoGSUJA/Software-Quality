@@ -1,0 +1,5 @@
+<map id="Farmacia::pedidoMedicam" name="Farmacia::pedidoMedicam">
+<area shape="rect" id="Node000001" title="Places a restock order to MediExpress." alt="" coords="237,5,411,32"/>
+<area shape="rect" id="Node000002" href="$class_farmacia.html#a005d2e950aee4eb5052807024a8c1311" title="Sells a medicine to a customer." alt="" coords="5,5,189,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,19,189,21,189,16,224,19"/>
+</map>

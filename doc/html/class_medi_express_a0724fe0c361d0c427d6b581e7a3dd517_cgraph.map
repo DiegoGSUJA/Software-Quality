@@ -1,0 +1,5 @@
+<map id="MediExpress::suministrarMed" name="MediExpress::suministrarMed">
+<area shape="rect" id="Node000001" title="Manually links a medicine to a laboratory." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="Node000002" href="$class_pa_medicamento.html#a8a31ae56cf9f15e48ecc5be27c106ad9" title="Associates a laboratory that supplies the medicine." alt="" coords="248,5,433,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,16,235,19,230,19,200,21"/>
+</map>

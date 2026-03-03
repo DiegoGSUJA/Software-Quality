@@ -1,0 +1,9 @@
+<map id="Stock::Stock" name="Stock::Stock">
+<area shape="rect" id="Node000001" title="Default constructor for Stock." alt="" coords="172,56,269,83"/>
+<area shape="rect" id="Node000002" href="$class_stock.html#a20d2672c9871d82c7e2726a185ee13d9" title="Less than comparison operator for ordering Stocks." alt="" coords="5,5,124,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,52,108,35,108,30,165,50"/>
+<area shape="rect" id="Node000003" href="$class_stock.html#a726f5368cbb4dc55ed3e5e6aa31d609d" title="Assignment operator for Stock." alt="" coords="5,56,124,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,70,125,72,124,67,159,69"/>
+<area shape="rect" id="Node000004" href="$class_stock.html#a7c5da266fd5fe5d99a57702e3f67a17a" title="Copy constructor for Stock." alt="" coords="16,107,113,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,87,109,109,107,104,160,89"/>
+</map>

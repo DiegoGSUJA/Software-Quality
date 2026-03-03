@@ -1,0 +1,5 @@
+<map id="MediExpress::eliminarMedicamento" name="MediExpress::eliminarMedicamento">
+<area shape="rect" id="Node000001" title="Removes a medicine from the system and all pharmacies." alt="" coords="5,5,234,32"/>
+<area shape="rect" id="Node000002" href="$class_medi_express.html#abf9124fcfa6647a0dbdcfbdb6b74d634" title="Searches for medicines by name." alt="" coords="282,5,493,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,16,269,19,263,19,234,21"/>
+</map>
