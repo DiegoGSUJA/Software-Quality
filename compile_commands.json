@@ -1,31 +1,55 @@
 [
   {
+<<<<<<< HEAD
     "directory": "C:/Users/Usuario/Desktop/CaSo",
+=======
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
     "command": "g++ -c main.cpp",
     "file": "main.cpp"
   },
   {
+<<<<<<< HEAD
     "directory": "C:/Users/Usuario/Desktop/CaSo",
+=======
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
     "command": "g++ -c Farmacia.cpp",
     "file": "Farmacia.cpp"
   },
   {
+<<<<<<< HEAD
     "directory": "C:/Users/Usuario/Desktop/CaSo",
+=======
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
     "command": "g++ -c Laboratorio.cpp",
     "file": "Laboratorio.cpp"
   },
   {
+<<<<<<< HEAD
     "directory": "C:/Users/Usuario/Desktop/CaSo",
+=======
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
     "command": "g++ -c MediExpress.cpp",
     "file": "MediExpress.cpp"
   },
   {
+<<<<<<< HEAD
     "directory": "C:/Users/Usuario/Desktop/CaSo",
+=======
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
     "command": "g++ -c PaMedicamento.cpp",
     "file": "PaMedicamento.cpp"
   },
   {
+<<<<<<< HEAD
     "directory": "C:/Users/Usuario/Desktop/CaSo",
+=======
+    "directory": "C:/Users/jienn/Desktop/EEDD_PRACTICAS-P4",
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
     "command": "g++ -c Stock.cpp",
     "file": "Stock.cpp"
   }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * @file Laboratorio.h
  * @author Diego Gómez Sánchez and Emma Melero Reche
@@ -8,6 +9,8 @@
  * @copyright Copyright (c) 2026
  */
 
+=======
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
 #ifndef EEDD_PRACTICAS_LABORATORIO_H
 #define EEDD_PRACTICAS_LABORATORIO_H
 
@@ -15,6 +18,7 @@
 
 using namespace std;
 
+<<<<<<< HEAD
 /**
  * @brief Class that simulates a laboratory.
  */
@@ -29,26 +33,55 @@ private:
 public:
     /**
      * @brief Default constructor.
+=======
+
+class Laboratorio {
+    private:
+    int id;
+    string nombreLab;
+    string direccion;
+    string codPostal;
+    string localidad;
+
+    public:
+    /**
+     * @brief Constructor por defecto.
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
      */
     Laboratorio();
 
     /**
+<<<<<<< HEAD
      * @brief Parameterized constructor.
      * @param labId Laboratory identification.
      * @param nom Name of the lab.
      * @param dir Address.
      * @param cp Postal code.
      * @param loc City.
+=======
+     * @brief Constructor parametrizado.
+     * @param labId Identificador numérico del laboratorio.
+     * @param nom Nombre del laboratorio.
+     * @param dir Dirección completa.
+     * @param cp Código postal.
+     * @param loc Localidad.
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
      */
     Laboratorio(int labId, const string &nom, const string &dir, const string &cp, const string &loc);
 
     /**
+<<<<<<< HEAD
      * @brief Copy constructor.
      * @param orig Object to be copied.
+=======
+     * @brief Constructor de copia.
+     * @param orig Objeto a copiar.
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
      */
     Laboratorio(const Laboratorio &orig);
 
     /**
+<<<<<<< HEAD
      * @brief Assignment operator.
      * @param orig Object to be copied.
      * @return Reference to the current object.
@@ -119,22 +152,64 @@ public:
      * @brief Less than operator.
      * @param otro Another laboratory to compare with.
      * @return true if this ID is less than the other.
+=======
+     * @brief Operador de asignación.
+     * @param orig Objeto a copiar.
+     * @return Referencia al objeto actual.
+     */
+    Laboratorio& operator=(const Laboratorio &orig);
+
+    // Getters
+    int get_id() const { return id; }
+    string &get_nombreLab() { return nombreLab; }
+    string get_direccion() const { return direccion; }
+    string get_codPostal() const { return codPostal; }
+    string get_localidad() const { return localidad; }
+
+    // Setters
+    void set_id(int labId) { id = labId; }
+    void set_nombreLab(const string &nom) { nombreLab = nom; }
+    void set_direccion(const string &dir) { direccion = dir; }
+    void set_codPostal(const string &cp) { codPostal = cp; }
+    void set_localidad(const string &loc) { localidad = loc; }
+
+    /**
+     * @brief Operador menor que.
+     * @param otro Otro laboratorio.
+     * @return true si el ID actual es menor que el otro.
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
      */
     bool operator<(const Laboratorio &otro) const;
 
     /**
+<<<<<<< HEAD
      * @brief Greater than operator.
      * @param otro Another laboratory to compare with.
      * @return true if this ID is greater than the other.
+=======
+     * @brief Operador mayor que.
+     * @param otro Otro laboratorio.
+     * @return true si el ID actual es mayor que el otro.
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
      */
     bool operator>(const Laboratorio& otro) const;
 
     /**
+<<<<<<< HEAD
      * @brief Equality operator.
      * @param otro Another laboratory to compare with.
      * @return true if both IDs are the same.
+=======
+     * @brief Operador de igualdad.
+     * @param otro Otro laboratorio.
+     * @return true si el ID actual es igual que el otro.
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
      */
     bool operator==(const Laboratorio& otro) const;
 };
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 999b9a08297f7ad8d51f2d1403d58432c37d04d4
 #endif //EEDD_PRACTICAS_LABORATORIO_H
